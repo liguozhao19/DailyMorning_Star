@@ -2,13 +2,13 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxa798d*******2b41",
+"app_id": "wx3ba75a96c5bf222d",
 # 公众号appSecret
-"app_secret": "1f28c7b7d4*******c9a10deb45b96e5",
+"app_secret": "9d021b5e5c8bf0140666a9c1830db93b",
 # 模板消息id
-"template_id": "Oxhna4AulaFbI*******eOXGN4qKucO6GV--giO1oJg",
+"template_id": "9vNG9mD2cRWgwraI8ryzk3zCoCPWVrdk7pF5PWm2qLE",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oVtAf5gqB****yMSmrHPnMrrVQzI", "oVtAf5r5QPe*****pG-Eo48fyoYw"],
+"user": ["9vNG9mD2cRWgwraI8ryzk3zCoCPWVrdk7pF5PWm2qLE"],
 
 # 信息配置
 # 所在省份
